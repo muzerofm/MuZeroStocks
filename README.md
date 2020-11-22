@@ -18,4 +18,5 @@ People are needed for virtually every aspect of a project/business.  Including:
    * Kubernetes
    * Hyperparameter tuning
 * Website development
+* DevOps
 * Venture capital
